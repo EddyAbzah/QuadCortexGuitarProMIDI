@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# IDEs
+.idea/
+
+# Env
+.env

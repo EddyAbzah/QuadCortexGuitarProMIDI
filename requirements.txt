@@ -1,0 +1,5 @@
+# GUI (built-in with standard Python installs)
+# tkinter
+
+mido>=1.3.0
+python-rtmidi>=1.5.8
